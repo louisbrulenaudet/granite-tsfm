@@ -21,7 +21,6 @@ dependencies = [
     "transformers[torch]>=4.38.0",
     "datasets",
     "deprecated",
-    "urllib",         # see https://github.com/urllib3/urllib3/security/advisories/GHSA-34jh-p97f-mpxf
     "numpy<2",
 ]
 
